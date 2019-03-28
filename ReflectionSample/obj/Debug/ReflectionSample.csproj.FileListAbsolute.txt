@@ -1,0 +1,6 @@
+H:\Practice\SampleCollection\ReflectionSample\bin\Debug\ReflectionSample.exe.config
+H:\Practice\SampleCollection\ReflectionSample\bin\Debug\ReflectionSample.exe
+H:\Practice\SampleCollection\ReflectionSample\bin\Debug\ReflectionSample.pdb
+H:\Practice\SampleCollection\ReflectionSample\obj\Debug\ReflectionSample.csproj.CoreCompileInputs.cache
+H:\Practice\SampleCollection\ReflectionSample\obj\Debug\ReflectionSample.exe
+H:\Practice\SampleCollection\ReflectionSample\obj\Debug\ReflectionSample.pdb
