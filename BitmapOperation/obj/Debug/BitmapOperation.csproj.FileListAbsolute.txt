@@ -1,0 +1,10 @@
+H:\Practice\SampleCollection\BitmapOperation\bin\Debug\BitmapOperation.exe.config
+H:\Practice\SampleCollection\BitmapOperation\bin\Debug\BitmapOperation.exe
+H:\Practice\SampleCollection\BitmapOperation\bin\Debug\BitmapOperation.pdb
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.csprojAssemblyReference.cache
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.FrmMain.resources
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.Properties.Resources.resources
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.csproj.GenerateResource.cache
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.csproj.CoreCompileInputs.cache
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.exe
+H:\Practice\SampleCollection\BitmapOperation\obj\Debug\BitmapOperation.pdb
